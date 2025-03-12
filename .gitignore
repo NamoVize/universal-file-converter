@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Local development settings
+.env
+.env.local
+
+# Logs
+*.log
+
+# Testing
+.coverage
+htmlcov/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary directories
+temp/
+tmp/
+
+# Screenshots directory
+screenshots/
